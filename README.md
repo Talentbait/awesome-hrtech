@@ -11,6 +11,9 @@ A curated list of awesome HRTech products
 
 2. [12Grapes](https://www.start12grapes.com/) - Video interview with face recognition
 
+## Employer branding
+
 
 ## ATS
 1. [Lever](https://www.lever.co/) - New player in the ATS game with top notch UX and many great features
+2. [HireHive](http://hirehive.io/) - Simple and easy to use ATS
